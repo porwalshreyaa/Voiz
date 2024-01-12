@@ -1,0 +1,10 @@
+#ignore all .log files
+*.log
+
+#ignore all files in temp directory
+temp/
+
+#ignore .env
+*.env
+
+/.venv
